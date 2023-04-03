@@ -1,0 +1,2 @@
+1/ ajouter lire directemment le fichier sans l 'enterer manuelemment
+2/ crypte fichier binaire

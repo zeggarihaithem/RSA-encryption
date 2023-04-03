@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1510556124 source:d:\tp1 sfsd\pro_principale\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1508820313 d:\tp1 sfsd\pro_principale\conio.h
+	<_mingw.h>
+
+1441094282 d:\tp1 sfsd\pro_principale\conio2.h
+	<conio.h>
+	<windows.h>
+
+1375480210 d:\tp1 sfsd\pro_principale\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1510552764 d:\tp1 sfsd\pro_principale\biblio.h
+
+1508820390 source:d:\tp1 sfsd\pro_principale\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1510556124 source:d:\tp1 sfsd\pro_principale\generer cle\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1508820313 d:\tp1 sfsd\pro_principale\generer cle\conio.h
+	<_mingw.h>
+
+1441094282 d:\tp1 sfsd\pro_principale\generer cle\conio2.h
+	<conio.h>
+	<windows.h>
+
+1375480210 d:\tp1 sfsd\pro_principale\generer cle\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1510552764 d:\tp1 sfsd\pro_principale\generer cle\biblio.h
+
+1508820390 source:d:\tp1 sfsd\pro_principale\generer cle\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1508820390 source:d:\tp1 sfsd\tp1_sfsd\generer cle\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1441094282 d:\tp1 sfsd\tp1_sfsd\generer cle\conio2.h
+	<conio.h>
+	<windows.h>
+
+1510691675 source:d:\tp1 sfsd\tp1_sfsd_final\generer cle\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1508820313 d:\tp1 sfsd\tp1_sfsd_final\generer cle\conio.h
+	<_mingw.h>
+
+1441094282 d:\tp1 sfsd\tp1_sfsd_final\generer cle\conio2.h
+	<conio.h>
+	<windows.h>
+
+1375480210 d:\tp1 sfsd\tp1_sfsd_final\generer cle\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1510687219 d:\tp1 sfsd\tp1_sfsd_final\generer cle\biblio.h
+
+1508820390 source:d:\tp1 sfsd\tp1_sfsd_final\generer cle\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1510691675 source:d:\tp1 sfsd\tp1_sfsd_final\generer cle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1511719395 source:d:\tp1 sfsd\tp1_sfsd_version 1.0\generer cle\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1508820313 d:\tp1 sfsd\tp1_sfsd_version 1.0\generer cle\conio.h
+	<_mingw.h>
+
+1441094282 d:\tp1 sfsd\tp1_sfsd_version 1.0\generer cle\conio2.h
+	<conio.h>
+	<windows.h>
+
+1375480210 d:\tp1 sfsd\tp1_sfsd_version 1.0\generer cle\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1511434658 d:\tp1 sfsd\tp1_sfsd_version 1.0\generer cle\biblio.h
+
+1508820390 source:d:\tp1 sfsd\tp1_sfsd_version 1.0\generer cle\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1511719691 source:d:\tp1 sfsd\tp1_sfsd_version 1.0\generer cle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+

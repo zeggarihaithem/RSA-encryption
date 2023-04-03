@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1510688175 source:d:\tp1 sfsd\pro_principale\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1508820313 d:\tp1 sfsd\pro_principale\conio.h
+	<_mingw.h>
+
+1441094282 d:\tp1 sfsd\pro_principale\conio2.h
+	<conio.h>
+	<windows.h>
+
+1375480210 d:\tp1 sfsd\pro_principale\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1510687219 d:\tp1 sfsd\pro_principale\biblio.h
+
+1508820390 source:d:\tp1 sfsd\pro_principale\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1510687481 source:d:\tp1 sfsd\pro_principale\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1510691834 source:d:\tp1 sfsd\tp1_sfsd\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1508820313 d:\tp1 sfsd\tp1_sfsd\conio.h
+	<_mingw.h>
+
+1441094282 d:\tp1 sfsd\tp1_sfsd\conio2.h
+	<conio.h>
+	<windows.h>
+
+1375480210 d:\tp1 sfsd\tp1_sfsd\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1510687219 d:\tp1 sfsd\tp1_sfsd\biblio.h
+
+1508820390 source:d:\tp1 sfsd\tp1_sfsd\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1510692054 source:d:\tp1 sfsd\tp1_sfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1510691834 source:d:\tp1 sfsd\tp1_sfsd_final\biblio.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1508820313 d:\tp1 sfsd\tp1_sfsd_final\conio.h
+	<_mingw.h>
+
+1441094282 d:\tp1 sfsd\tp1_sfsd_final\conio2.h
+	<conio.h>
+	<windows.h>
+
+1375480210 d:\tp1 sfsd\tp1_sfsd_final\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1511434658 d:\tp1 sfsd\tp1_sfsd_final\biblio.h
+
+1508820390 source:d:\tp1 sfsd\tp1_sfsd_final\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1510692054 source:d:\tp1 sfsd\tp1_sfsd_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1508820390 source:d:\tp1 sfsd\tp1_sfsd_version 1.0\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1441094282 d:\tp1 sfsd\tp1_sfsd_version 1.0\conio2.h
+	<conio.h>
+	<windows.h>
+
+1510692054 source:d:\tp1 sfsd\tp1_sfsd_version 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"conio2.h"
+	"gmp.h"
+	"biblio.h"
+
+1508820313 d:\tp1 sfsd\tp1_sfsd_version 1.0\conio.h
+	<_mingw.h>
+
+1375480210 d:\tp1 sfsd\tp1_sfsd_version 1.0\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1511434658 d:\tp1 sfsd\tp1_sfsd_version 1.0\biblio.h
+
